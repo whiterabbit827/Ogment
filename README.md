@@ -15,3 +15,7 @@ a picture from us and augment any 3-D model or any other picture to the live vid
   <li>It explains the concept of feature matching.
   <li>Feature Matching Attained with<b> FLANN Based Matcher</b>
   <li>Next Video Aim: To compute the <b>Homography Matrix</b> and <b>Augment Image</b> on realtime frame.
+<h2>Required Python library<h2>
+OpenCV
+Numpy
+
